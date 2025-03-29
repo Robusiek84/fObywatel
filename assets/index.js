@@ -57,7 +57,7 @@ imageInput.addEventListener('change', (event) => {
     fetch('	https://api.imgur.com/3/image' ,{
         method: 'POST',
         headers: {
-            'Authorization': 'Client-ID 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'
+            'Authorization': 'Client-ID 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'
         },
         body: data
     })
